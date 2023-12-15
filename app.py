@@ -11,7 +11,7 @@ def main():
         ic("s - save cars to JSON file")
         ic("x - exit")
         user_selection = input("Your selection: ")
-            
+           
         if user_selection == "a":
             car_brand = input("Enter car brand: ")
             cars.append(car_brand)

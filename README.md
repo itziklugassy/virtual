@@ -1,5 +1,5 @@
 ****Hello to my progrem**** 
-option progrem - car grage
+car manger app
 'a - add your car'
 'd - delete your car'
 'p - print all cars'
